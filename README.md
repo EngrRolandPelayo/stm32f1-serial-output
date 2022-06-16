@@ -1,1 +1,1 @@
-# stm32f1-serial-output
+# STM32NucleoSerial
